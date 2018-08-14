@@ -38,20 +38,20 @@ Finally, I consolidated the findings of this project into a high level presentat
 
 The presentation is called What movie should I watch tonight and it's also saved in this repository.
 
-# The results
+### The results
 
 The third model explored provided meaningful movie recommendations for random users based on his/her preferences.
 
 The outcome was tested on three randomly selected users and I was able to populate the top 20 movies that we could recommend for the three of them. I considered the recommendations meaninful enough to be used on a website. 
 
-# Improvements
+### Improvements
 
 The fact that topics didn't seem meaningful enough to me when inmplementing the LDA model didn't mean that the model wasn't working properly so a prediction could have been performed to confirm the final outcome.
 
 The SVD approach is limited to linear projections but Deep Learning and Neural Networks use linear and non-linear layers so they could be used for better predictions in the future.
 
 
-# Contact infomation
+### Contact infomation
 
 Feel free to contact me at loida.delgado-perez@gmail.com or alternatively via LinkedIn at linkedin.com/in/loidadelgadoperez
 
